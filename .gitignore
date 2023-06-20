@@ -1,9 +1,14 @@
-*.out
+.DS_Store
+
 Student_control.h.gch
 StudentControl*
+*.out
 *.gif
 *.dot
 *.docx
+
 *.txt
+!/Data/*.txt
+
 cmake-build-debug/
 .idea/

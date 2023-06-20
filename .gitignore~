@@ -1,8 +1,0 @@
-*.out
-Student_control.h.gch
-StudentControl*
-*.gif
-*.dot
-*.docx
-*.txt
-cmake-build-debug/
